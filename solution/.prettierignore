@@ -1,0 +1,7 @@
+dist
+node_modules
+coverage
+build
+.direnv
+pnpm-lock.yaml
+src/mock-api/**/*

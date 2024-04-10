@@ -1,0 +1,13 @@
+{
+    "arrowParens": "always",
+    "bracketSpacing": true,
+    "jsxBracketSameLine": false,
+    "jsxSingleQuote": false,
+    "printWidth": 120,
+    "proseWrap": "always",
+    "semi": true,
+    "singleQuote": true,
+    "tabWidth": 2,
+    "trailingComma": "all",
+    "plugins": ["@ianvs/prettier-plugin-sort-imports", "prettier-plugin-tailwindcss"]
+}
